@@ -1,12 +1,9 @@
-Notice
-Update
-Alert
 FYI
 Heads up
 Quick note
 Daily update
 Status
-Check-in
+Check
 Ping
 Notification
 Announcement
