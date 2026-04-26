@@ -1,6 +1,5 @@
 Notice
 Update
-Message
 Alert
 FYI
 Heads up
